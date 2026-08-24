@@ -32,6 +32,7 @@ body {
     padding: 16px;
     width: 320px;
     flex-shrink: 0;
+    border-radius: 24px;
 }
 
 .card-top {
